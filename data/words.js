@@ -1553,6 +1553,7 @@ let words = [
     "game development events and expos 2023",
     "best gaming chairs for console gaming under $100 2023",
     "gaming laptops with AMD Radeon RX 6700M 2023",
+    "ultrasonography",
 ]
 
 export default words
